@@ -1,11 +1,8 @@
 * Fall 2021 - Lab 08
 
-* Last name:
-
-* First name:
-
-* GitHub username:
-
+* Last name: Li
+* First name: Wei Lin
+* GitHub username: wei892
 * Notes:
 
 
