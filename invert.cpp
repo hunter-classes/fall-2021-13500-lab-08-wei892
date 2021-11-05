@@ -1,3 +1,19 @@
+/*
+Name: Wei Lin Li
+Course: CSCI-135
+Instructor: Tong Yi and Mike Zamansky
+Assignment: Lab 08
+
+this contains all the functions that run the codes in main:
+invert
+inverthalf
+box
+frame
+scale
+pixelate
+
+*/
+
 #include <iostream>
 #include <cassert>
 #include <cstdlib>
